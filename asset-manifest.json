@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ListApp/static/js/main.68214376.chunk.js",
+    "main.js.map": "/ListApp/static/js/main.68214376.chunk.js.map",
+    "runtime-main.js": "/ListApp/static/js/runtime-main.7670a290.js",
+    "runtime-main.js.map": "/ListApp/static/js/runtime-main.7670a290.js.map",
+    "static/js/2.59136ad9.chunk.js": "/ListApp/static/js/2.59136ad9.chunk.js",
+    "static/js/2.59136ad9.chunk.js.map": "/ListApp/static/js/2.59136ad9.chunk.js.map",
+    "index.html": "/ListApp/index.html",
+    "precache-manifest.1b3be8885928a5ab4254567c422dd57f.js": "/ListApp/precache-manifest.1b3be8885928a5ab4254567c422dd57f.js",
+    "service-worker.js": "/ListApp/service-worker.js",
+    "static/js/2.59136ad9.chunk.js.LICENSE.txt": "/ListApp/static/js/2.59136ad9.chunk.js.LICENSE.txt",
+    "static/media/plus.svg": "/ListApp/static/media/plus.e43ce6c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7670a290.js",
+    "static/js/2.59136ad9.chunk.js",
+    "static/js/main.68214376.chunk.js"
+  ]
+}
