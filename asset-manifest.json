@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/List-Application/static/js/main.ef16850b.chunk.js",
-    "main.js.map": "/List-Application/static/js/main.ef16850b.chunk.js.map",
+    "main.js": "/List-Application/static/js/main.be1305f3.chunk.js",
+    "main.js.map": "/List-Application/static/js/main.be1305f3.chunk.js.map",
     "runtime-main.js": "/List-Application/static/js/runtime-main.eb9b2a9b.js",
     "runtime-main.js.map": "/List-Application/static/js/runtime-main.eb9b2a9b.js.map",
     "static/js/2.4a500ea6.chunk.js": "/List-Application/static/js/2.4a500ea6.chunk.js",
     "static/js/2.4a500ea6.chunk.js.map": "/List-Application/static/js/2.4a500ea6.chunk.js.map",
     "index.html": "/List-Application/index.html",
-    "precache-manifest.0b289d772d642d11856a5de69920d279.js": "/List-Application/precache-manifest.0b289d772d642d11856a5de69920d279.js",
+    "precache-manifest.2331ad0c4d7d7e6b0ba16e4abde60827.js": "/List-Application/precache-manifest.2331ad0c4d7d7e6b0ba16e4abde60827.js",
     "service-worker.js": "/List-Application/service-worker.js",
     "static/js/2.4a500ea6.chunk.js.LICENSE.txt": "/List-Application/static/js/2.4a500ea6.chunk.js.LICENSE.txt",
     "static/media/plus.svg": "/List-Application/static/media/plus.e43ce6c8.svg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.eb9b2a9b.js",
     "static/js/2.4a500ea6.chunk.js",
-    "static/js/main.ef16850b.chunk.js"
+    "static/js/main.be1305f3.chunk.js"
   ]
 }
